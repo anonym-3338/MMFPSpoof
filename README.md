@@ -1,6 +1,6 @@
 # MMFPSpoof
 
-<a href="https://itsme870.github.io/sample_MMFPSpoof/">🚩 Demo Samples</a> | <a href="https://drive.google.com/drive/folders/1Z46GM3iYB2ztNuyv-JfPteBtORm0uVLu?usp=sharing">⬇️ Download</a>
+<a href="https://github.com/anonym-3338.github.io/MMFPSpoof_samples">🚩 Demo Samples</a> | <a href="https://drive.google.com/drive/folders/1Z46GM3iYB2ztNuyv-JfPteBtORm0uVLu?usp=sharing">⬇️ Download</a>
 
 This is the official repository of the MMFPSpoof Project. 
 Stay updated on the latest resources and information about the MMFPSpoof project by following this repository.
